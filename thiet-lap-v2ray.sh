@@ -44,7 +44,7 @@ echo -n "- Đang khởi tạo kết nối: " && if curl -s --connect-timeout 1 $
 echo "Thành công, sau đây là thông tin v2ray, vui lòng sử dụng nó để điền vào ứng dụng v2ray"
 echo "Address (Địa chỉ): $IP"
 echo "Port (Cổng): 443"
-echo "UUID(id) (Địa chỉ ID): ba651c8c-cb35-4c46-bf6c-f90bd6f094e4"
+echo "UUID(id) (Địa chỉ ID): ac51652d-e633-4148-bed7-d6c2ebf82961"
 echo "AlterID: 64"
 echo "Protocol (Kiểu kết nối): WS"
 echo "Request host (Yêu cầu host): thay thế 1 trong 2 địa chỉ sau"
